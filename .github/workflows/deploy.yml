@@ -50,7 +50,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          nom install hexo-deployer-git
+          npm install hexo-deployer-git
           npm install
 
       - name: Deploy hexo
