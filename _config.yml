@@ -154,5 +154,5 @@ live2d:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://github.com/misakajialin/misakajialin.github.io.git
+  repository: git@github.com:misakajialin/misakajialin.github.io.git
   branch: master
